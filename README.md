@@ -1,5 +1,3 @@
-# 📝 NOTES.md
-
 # 🎓 Student Grade Tracker - Notes
 
 ## 📌 About the Project
